@@ -6,7 +6,9 @@
 // @namespace    http://tyilo.com/
 // @description  Ændrer folks navne til hvad de er kendt som på TÅGEKAMMERET
 // @include      https://www.facebook.com/*
-// @version      0.2
+// @version      0.3.1
+// @downloadURL  https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
+// @updateURL    https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
@@ -1077,6 +1079,7 @@ add_aliases(
 '"Brøl"       Morten Grud Rasmussen\n'+
 '"Stive-Anna" Anna Sejersen Riis\n'+
 '"Ålen"       Frederik Brinck Truelsen\n'+
+'"Sovs"       Camilla Grevy\n'+
 ''
 );
 var enabled = true;
